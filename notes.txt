@@ -1,0 +1,8 @@
+three ways to push your files or projects into github
+
+1. drag and drop or choose ur files.
+=> we can push only upto basic js and html,css files.
+
+2. vs code source control method.
+publish to github
+
